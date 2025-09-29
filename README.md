@@ -38,7 +38,8 @@ cd 3DMM-Construction-Pipeline
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
-## Required packages:
+#### Required packages:
+
 torch
 numpy
 scikit-learn
