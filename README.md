@@ -30,6 +30,15 @@ It is designed to be **modular, reproducible, and research-ready**, making it us
 
 ---
 
+### Required packages
+
+- torch
+- numpy
+- scikit-learn
+- matplotlib
+- igl (Python bindings for libigl)
+- torch.utils.data
+
 ### Installation
 
 ```bash
@@ -38,13 +47,6 @@ cd 3DMM-Construction-Pipeline
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
-#### Required packages:
 
-torch
-numpy
-scikit-learn
-matplotlib
-igl (Python bindings for libigl)
-torch.utils.data
 
 
