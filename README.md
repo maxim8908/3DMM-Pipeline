@@ -30,7 +30,7 @@ It is designed to be **modular, reproducible, and research-ready**, making it us
 
 ---
 
-### 1️⃣ Installation
+### Installation
 
 ```bash
 git clone https://github.com/<your-username>/3DMM-Construction-Pipeline.git
@@ -38,7 +38,7 @@ cd 3DMM-Construction-Pipeline
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
-Required packages:
+## Required packages:
 torch
 numpy
 scikit-learn
