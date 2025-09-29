@@ -30,9 +30,6 @@ It is designed to be **modular, reproducible, and research-ready**, making it us
 
 ---
 
-
----
-
 ### 1️⃣ Installation
 
 ```bash
