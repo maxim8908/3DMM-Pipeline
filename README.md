@@ -1,8 +1,6 @@
 # 3DMM-Pipeline
 End-to-end pipeline for building a 3D Morphable Model (3DMM) from raw 3D face meshes — including data preprocessing, symmetry augmentation, centering, rigid alignment, PCA model construction, reconstruction, and random face generation.
 
-# 3DMM-Construction-Pipeline
-
 This repository provides a complete pipeline for constructing a **3D Morphable Model (3DMM)** from raw 3D face meshes. It covers every step of the classical 3DMM workflow — from dataset preparation and geometric alignment to PCA-based statistical modeling, reconstruction, and random face synthesis.  
 
 It is designed to be **modular, reproducible, and research-ready**, making it useful for academic research, graphics pipelines, or as a foundation for downstream tasks such as 3DMM fitting, facial animation, and identity modeling.
