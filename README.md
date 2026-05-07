@@ -7,8 +7,7 @@ It is designed to be **modular, reproducible, and research-ready**, making it us
 
 ---
 
-```markdown
-## 3D Morphable Model (3DMM) Construction Pipeline
+## Architecture
 
 ```mermaid
 flowchart TD
